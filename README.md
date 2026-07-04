@@ -1,4 +1,3 @@
-# octonion_kmap_lab
 # Boolean Algebra to Eight Dimensions
 
 How the three-variable Boolean cube climbs, two different ways, into the two most
