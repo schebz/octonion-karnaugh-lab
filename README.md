@@ -1,5 +1,7 @@
 # Boolean Algebra to Eight Dimensions
 
+https://schebz.github.io/octonion-karnaugh-lab/
+
 How the three-variable Boolean cube climbs, two different ways, into the two most
 exceptional structures in eight dimensions — the **octonions** and the **E8 lattice** —
 and why those two turn out to be the *same* eight dimensions.
